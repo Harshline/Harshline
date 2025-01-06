@@ -1,5 +1,4 @@
 ## Hi there 👋
-## Sorry nothing much to see. New to github would update the profile soon 😅
 <!--
 **Harshline/Harshline** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
