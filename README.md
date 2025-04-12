@@ -5,6 +5,7 @@
 💡 Passionate about Generative AI, NLP & real-world tech applications  
 🎯 Currently building: SkillSync – an intelligent career guidance system  
 🧠 Currently diving into: MEAN Stack, AI/ML, LangChain, Streamlit, GitHub Actions
+
 🛠️ Tech Stack: Python | C++ | Java | TensorFlow | PyTorch | Flask | MySQL  
 📚 Past Projects:  
 &nbsp;&nbsp;&nbsp;&nbsp;- Medical Chatbot using OpenAI API  
